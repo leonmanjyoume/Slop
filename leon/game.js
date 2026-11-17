@@ -1,0 +1,1 @@
+console.log("game.js and index.html created. initial text created.");
